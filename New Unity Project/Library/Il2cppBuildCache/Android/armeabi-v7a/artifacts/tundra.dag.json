@@ -1,0 +1,125 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.8f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"D:\\TapTapBird\\New Unity Project\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"D:\\TapTapBird\\New Unity Project\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --additional-cpp=\"D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsInitializationListener.h\" --additional-cpp=\"D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsLoadListener.h\" --additional-cpp=\"D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsShowListener.h\" --additional-cpp=\"D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAppController+Notifications.h\" --additional-cpp=\"D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationData.h\" --additional-cpp=\"D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationManager.h\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Inputs": [
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/GoogleMobileAds.Android.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/GoogleMobileAds.Common.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/GoogleMobileAds.Core.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/GoogleMobileAds.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/Unity.2D.IK.Runtime.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "D:/TapTapBird/New Unity Project/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsInitializationListener.h",
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsLoadListener.h",
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAdsShowListener.h",
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAppController+Notifications.h",
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationData.h",
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationManager.h"
+      ],
+      "Outputs": [
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [
+        "D:/TapTapBird/New Unity Project/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput"
+      ],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
